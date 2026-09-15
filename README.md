@@ -15,7 +15,9 @@
 
 <!-- SCRIPTS:START -->
 
-_Пока пусто._
+| Скрипт | Описание | Версия | |
+| --- | --- | --- | --- |
+| [Example — Version Badge](https://github.com/Cory-3169/cory-userscripts/blob/main/scripts/example-script.user.js) | Демо-скрипт: показывает текущую версию в углу страницы — удобно проверить, что автообновление из GitHub работает | `1.0.0` | [⬇️ Установить](https://raw.githubusercontent.com/Cory-3169/cory-userscripts/main/scripts/example-script.user.js) |
 
 <!-- SCRIPTS:END -->
 
